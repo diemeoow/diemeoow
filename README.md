@@ -1,10 +1,6 @@
 
 <div align="center">
 
-<a href="https://github.com/diemeoow">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;Always+learning+something+new+%F0%9F%93%96" alt="Typing SVG" />
-</a>
-
 <a href="https://t.me/cruxmom"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/ТВОЙ_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:maria.shakurova2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -14,10 +10,8 @@
 
 </div>
 
----
-
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,git,figma,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,git,figma,postgres&theme=dark" />
 </div>
 
 ---
