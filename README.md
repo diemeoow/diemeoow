@@ -23,21 +23,17 @@
 ---
 
 <div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=diemeoow&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=diemeoow&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=diemeoow&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=diemeoow&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=diemeoow&show_icons=true&theme=default&hide_border=true&cache_seconds=86400">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=diemeoow&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"/>
 </picture>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=diemeoow&layout=compact&theme=radical&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=diemeoow&layout=compact&theme=default&hide_border=true">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diemeoow&layout=compact&theme=radical&hide_border=true"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=diemeoow&layout=compact&theme=radical&hide_border=true&cache_seconds=86400">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=diemeoow&layout=compact&theme=default&hide_border=true&cache_seconds=86400">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diemeoow&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"/>
 </picture>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=diemeoow&theme=radical&hide_border=true" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=diemeoow&theme=radical&hide_border=true&cache_seconds=86400" />
 </div>
 
 ---
