@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=200&section=header&text=diemeoow&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<a href="https://github.com/ТВОЙ_USERNAME">
+<a href="https://github.com/diemeoow">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;Always+learning+something+new+%F0%9F%93%96" alt="Typing SVG" />
 </a>
 
