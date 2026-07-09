@@ -23,7 +23,7 @@ Building modern web applications with React, Next.js and TypeScript.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,postgres,git,github,vscode,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,postgres,sqlite,git,github,vscode,figma&theme=dark"/>
 
 </div>
 
